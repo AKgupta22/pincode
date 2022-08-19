@@ -1,0 +1,80 @@
+.background {
+    background-color: #FEB139;
+}
+
+.heading {
+    font-size: 15px;
+    height: 75px;
+}
+
+.desc {
+    font-size: 13px;
+    height: 160px;
+}
+.mybtn{
+    border: none;
+}
+.mybtn:hover {
+    background-color: #c48724;
+}
+
+.source {
+    background-color: rgb(182, 177, 177);
+    text-align: center;
+}
+
+body {
+    overflow-x: hidden;
+    background-color: whitesmoke;
+}
+
+
+
+#formmy {
+    margin: auto;
+    width: 50%;
+    height: 406px;
+}
+
+.d-flex {
+    display: flex;
+    flex-direction: column;
+}
+
+.h4class {
+    width: 80%;
+    margin: auto;
+}
+
+.myspinner {
+
+    margin: auto;
+    margin-top: 10px;
+}
+
+.spinnercol {
+    background: rgb(147, 125, 194);
+    background: linear-gradient(319deg, rgba(147, 125, 194, 1) 25%, rgba(200, 129, 200, 1) 50%, rgba(252, 197, 192, 1) 100%);
+    height: 4.5rem;
+    width: 4.5rem;
+}
+
+.modes {
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    margin-top: 1rem;
+    font-size: 1.28rem;
+    font-weight: 700;
+    color: #D61C4E;
+}
+
+.lightbg {
+    background-color: #2C3333;
+    border: none;
+    color: white;
+}
+.lightbg:hover{
+    background-color: #2C3333;
+    color: white;
+}
